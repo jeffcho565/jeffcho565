@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Life Style Scheduler**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeffcho565?tab=repositories](https://github.com/jeffcho565?tab=repositories)
+- 👨‍💻 All of my projects are below, or available at [https://github.com/jeffcho565?tab=repositories](https://github.com/jeffcho565?tab=repositories)
 
 - 💬 Ask me about **my experience as a developer**
 
 - 📫 How to reach me **jeffcho565@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view](https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view](https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view)
 
 - ⚡ Fun fact **I enjoy golfing in my free time**
 
