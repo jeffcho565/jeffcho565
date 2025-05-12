@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Life Style Scheduler**
 
-- 👨‍💻 All of my projects are below, or available at [https://github.com/jeffcho565?tab=repositories](https://github.com/jeffcho565?tab=repositories)
+- 👨‍💻 All of my projects are below, or available at [GitHub](https://github.com/jeffcho565?tab=repositories)
 
 - 💬 Ask me about **my experience as a developer**
 
