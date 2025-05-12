@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [AI-Speaker](https://github.com/jeffcho565/AI-Speaker)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **More Frameworks**
 
 - 👯 I’m looking to collaborate on [Project Manager](https://github.com/jeffcho565/Project-Manager)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are below, or available at [GitHub](https://github.com/jeffcho565?tab=repositories)
 
-- 💬 Ask me about **my experience as a developer**
+- 💬 Ask me about **My experience as a developer**
 
 - 📫 How to reach me **jeffcho565@gmail.com**
 
