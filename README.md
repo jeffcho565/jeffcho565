@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeffcho565@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view](https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view]([https://drive.google.com/file/d/1PCR3gK-okjTsi6gIK89pXU1xmmf3IsdG/view](https://drive.google.com/file/d/1QO7zpKvkjY13luL2yVMTQqekNWXwS3wV/view?usp=sharing))
 
 - ⚡ Fun fact **I enjoy golfing in my free time**
 
